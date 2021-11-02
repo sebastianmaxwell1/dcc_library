@@ -1,6 +1,6 @@
 .cover {
     background-color: black;
-
+    color: lightgray;
     text-align: center;
     border: solid grey;
     border-width: 1 1px;
@@ -9,12 +9,12 @@
 }
 
 .book {
-    background-color: hotpink;
+    background-color: lightgray;
     text-align: center;
     border-right: solid whitesmoke;
     border-bottom: whitesmoke;
     border-width: 1 1px;
-    height: 650px;
+    height: 550px;
     width: 100%;
     border-bottom-left-radius: 15%;
     border-top-right-radius: 5%;

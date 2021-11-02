@@ -11,7 +11,7 @@ const BookViewer = (props) => {
             <Book book={props.book}/>
         </div>
         <div className="col-md-4">
-            <button onClick={props.nextBook}>Next Book</button>
+            <button className="nextBtn" onClick={props.nextBook}>Next Book</button>
             </div>
         </div>
      );
